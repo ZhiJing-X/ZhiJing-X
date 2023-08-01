@@ -67,7 +67,7 @@
 **📫 How to Reach me:**
 <p align="left">
 <a href="https://twitter.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/ZhiJing-X/ZhiJing-X/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
-<a href="https://linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/ZhiJing-X/ZhiJing-X/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
+<a href="https://t.me/ShunSui_bot" target="blank"><img align="center" src="https://raw.githubusercontent.com/ZhiJing-X/ZhiJing-X/master/assets/telegram.svg" alt="BEPb" height="30" width="30" /></a>
 <a href="Wan_type@outlook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/ZhiJing-X/ZhiJing-X/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 <a href="https://api.whatsapp.com/send?phone=+12398328599" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
 </p>
