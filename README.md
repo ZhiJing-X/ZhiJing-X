@@ -4,10 +4,10 @@
 <p align="center">
     <a href="https://github.com/ZhiJing-X/ZhiJing-X"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
-    <a href="https://github.com/ZhiJing-X/ZhiJing-X/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
-    <a href="https://github.com/ZhiJing-X/ZhiJing-X/stargazers"><img src="https://img.shields.io/github/stars/BEPb/BEPb.svg?logo=github"></a>
-    <a href="https://github.com/ZhiJing-X/ZhiJing-X/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>   
+    <a href="https://github.com/ZhiJing-X/ZhiJing-X/graphs/contributors"><img src="https://img.shields.io/github/contributors/ZhiJing-X/ZhiJing-X?color=blue"></a>
+    <a href="https://github.com/ZhiJing-X/ZhiJing-X/stargazers"><img src="https://img.shields.io/github/stars/ZhiJing-X/ZhiJing-X.svg?logo=github"></a>
+    <a href="https://github.com/ZhiJing-X/ZhiJing-X/network/members"><img src="https://img.shields.io/github/forks/ZhiJing-X/ZhiJing-X.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=ZhiJing-X.ZhiJing-X" alt="visitors"/>   
 </p>
 
 <!--   my-header-img -->
