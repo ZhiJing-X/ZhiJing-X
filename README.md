@@ -69,7 +69,7 @@
 <a href="https://twitter.com/ZhiJing-X?s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/ZhiJing-X/ZhiJing-X/master/assets/twitter.svg" alt="ZhiJing-X" height="30" width="30" /></a>
 <a href="https://t.me/ZJing_bot" target="blank"><img align="center" src="https://raw.githubusercontent.com/ZhiJing-X/ZhiJing-X/master/assets/telegram.svg" alt="ZhiJing-X" height="30" width="30" /></a>
 <a href="mailto:andrej.Wan_type@outlook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/ZhiJing-X/ZhiJing-X/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-<a href="https://api.whatsapp.com/send?phone=+12398328599" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
+<a href="https://bit.ly/3OM9bUA" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
 </p>
 
 <div align="center">
