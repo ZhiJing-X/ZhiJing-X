@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://blog.iwexe.cn/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println(%22Hello%2C%20World%22);Lorin 洛林&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println(%22Hello%2C%20World%22);ZhiJing 致靖&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
 
@@ -26,9 +26,9 @@
 
 <!-- 个人简介 -->
 - 👋 Hi, I’m @ZhiJing-X
-- 👀 I ’m interest in Java, server development, database, computer network, operating system, AI, etc.
-- 🌱 I’m currently learning database, AI,Chrome plug -in development.
+- 👀 I ’m interest in Python, server development, database, computer network, operating system, AI, etc.
+- 🌱 I’m currently learning Python, AI,server development.
 - 💞️ I’m looking to collaborate on article synchronization assistant.
-- 📫 How to reach me? Email: gmqiujun@gmail.com
+- 📫 How to reach me? Email: iwexe_Ltd@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhiJing-X&layout=compact)](https://github.com/ZhiJing-X)
