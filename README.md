@@ -19,11 +19,6 @@
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=ZhiJing-X&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
-  <h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 <p><b>Technology has the power to make the world a better place</b></p>
 </div>
 
