@@ -25,8 +25,10 @@
 ## Hi! Nice to meet you!
 
 <!-- 个人简介 -->
-- 👋 Hi, I’m @Lorin-github
+- 👋 Hi, I’m @ZhiJing-X
 - 👀 I ’m interest in Java, server development, database, computer network, operating system, AI, etc.
 - 🌱 I’m currently learning database, AI,Chrome plug -in development.
 - 💞️ I’m looking to collaborate on article synchronization assistant.
 - 📫 How to reach me? Email: gmqiujun@gmail.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhiJing-X&layout=compact)](https://github.com/ZhiJing-X)
