@@ -29,6 +29,6 @@
 - 👀 I ’m interest in Python, server development, database, computer network, operating system, AI, etc.
 - 🌱 I’m currently learning Python, AI,server development.
 - 💞️ I’m looking to collaborate on article synchronization assistant.
-- 📫 How to reach me? Email: iwexe_Ltd@gmail.com
+- 📫 How to reach me? Email: iwexe_ltd@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhiJing-X&layout=compact)](https://github.com/ZhiJing-X)
