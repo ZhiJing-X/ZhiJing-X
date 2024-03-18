@@ -32,3 +32,7 @@
 - 📫 How to reach me? Email: iwexe_ltd@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhiJing-X&layout=compact)](https://github.com/ZhiJing-X)
+
+### 访问量
+
+![](http://profile-counter.glitch.me/FoKit_Scripts/count.svg)
